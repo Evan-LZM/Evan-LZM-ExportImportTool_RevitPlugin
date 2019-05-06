@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+  
+  <AddIn Type="Application">
+
+      <Name>ElementInfo2</Name>
+	
+      <Assembly>C:\Users\Evan_PC\Desktop\Revit_Project\Export_Import_Tool_Files\Export_Import_Tool_Files\Export_Import_Tool\Export_Import_Tool\bin\Debug\Export_Import_Tool.dll</Assembly>
+
+      <Description>The tool used to handle export and import of the building data between Revit model files and SQL Server databases</Description>
+    
+      <AddInId>604b1052-f742-4951-8576-c261d1993108</AddInId>
+    
+      <FullClassName>Export_Import_Tool.ExternalApplicationClass</FullClassName>
+    
+      <VendorId>AAA</VendorId>
+    
+      <VendorDescription>AAA</VendorDescription>
+		
+  </AddIn>
+
+</RevitAddIns>
